@@ -4,17 +4,5 @@ Then after a few years of solo work I got hired as a vue.js and typescript devel
 
 ## Skills
 ![](https://github-readme-stats.vercel.app/api?username=alirezamires&hide_border=false&include_all_commits=true&count_private=false)</br>
-These are some of the technologies and languages that I’m more compassionate about and I like more to work on:
-- PHP
-- POSTGRES
-- VUEJS
-- JAVASCRIPT
-- NODEJS
-- GIT
-- DOCKER
-- RABBITMQ
-- REDIS
-- ELASTICSEARCH
-- MYSQL
-- MONGODB
-- NEO4J
+These are some of the technologies and languages that I’m more compassionate about and I like more to work on: </br>
+PHP ,POSTGRES ,VUEJS ,JAVASCRIPT ,NODEJS ,NODEJS ,GIT ,DOCKER ,RABBITMQ ,REDIS ,REDIS ,ELASTICSEARCH ,MYSQL ,MONGODB ,NEO4J
