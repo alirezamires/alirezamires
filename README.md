@@ -1,4 +1,5 @@
-## About Me:
+## Alireza Mires
+### About Me:
 I started as a c++ with qt framework working on embedded systems when I was in college. Then, I started working as a laravel Self-Employment developer and made a few exchange scripts for Persian template and script markets.
 Then after a few years of solo work I got hired as a vue.js and typescript developer for RTL-THEME which is the biggest WordPress and script market in Iran for RTL templates. and now I'm looking for more exciting opportunities and chances to work on more complicated and high-value projects.
 
